@@ -11,7 +11,7 @@ int main( )
     cout << "the size of double " << sizeof(double) << endl;
     cout << "the size of long double " << sizeof(long double) << endl;
     cout << "the size of long long double " << sizeof(long long double) << endl;
-    cout << "the size of double " << sizeof(double) << endl;
+    cout << "the size of _int64 " << sizeof(_int64) << endl;
     cout << "the size of double " << sizeof(double) << endl;
     cout << "the size of double " << sizeof(double) << endl;
     cout << "the size of double " << sizeof(double) << endl;
